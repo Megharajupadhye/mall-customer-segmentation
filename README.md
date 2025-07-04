@@ -53,9 +53,8 @@ It includes:
 ###  Requirements
 - Python 3.10+
 - Install dependencies:
-```bash
-pip install streamlit pandas matplotlib seaborn scikit-learn
-streamlit run mall_dashboard_norerun.py
+
+
 ---
 
 ##  Future Enhancements
