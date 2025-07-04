@@ -55,3 +55,40 @@ It includes:
 - Install dependencies:
 ```bash
 pip install streamlit pandas matplotlib seaborn scikit-learn
+
+---
+
+## 📈 Future Enhancements
+
+- 🔄 User password encryption  
+- 🧾 Downloadable customer segmentation reports  
+- 🌐 Deploy on Streamlit Cloud  
+- 🔍 Add filters for age, gender, and region  
+
+---
+
+## 👤 About Me
+
+**Meghraj Upadhye**  
+BCA Student |  Aspiring Data Analyst  
+  
+ Blending technology with communication, analytics, and legacy  
+
+---
+
+##  Contact
+
+-  Email: suhasupadhye2006@gmail.com  
+-  GitHub: [github.com/megharajupadhye](https://github.com/megharajupadhye)  
+-  Location: Belagavi, Karnataka  
+
+---
+
+##  License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+> “In code we trust. In data we decide.” —
+
