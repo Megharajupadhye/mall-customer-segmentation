@@ -1,23 +1,53 @@
-# Mall Customer Segmentation Dashboard
+#  Mall Customer Segmentation Dashboard
 
-This project uses Python, Streamlit, and KMeans clustering to segment mall customers based on their income and spending score. The dashboard supports role-based login (admin, analyst, marketing head) and provides interactive charts, KPIs, and business insights.
-
-## Features
-- Role-based login system (Admin, Analyst, Marketing Head)
-- Customer segmentation using KMeans
-- Streamlit-based interactive dashboard
-- User management & mall branch management
-- Marketing metrics and advertising insights
-
-## Technologies Used
-- Python
-- Streamlit
-- Pandas
-- Matplotlib & Seaborn
-- Scikit-learn (KMeans)
-
-## Getting Started
-1. Clone this repository
-2. Run `streamlit run mall_dashboard_norerun.py`
+A role-based interactive dashboard built with **Python**, **Streamlit**, and **KMeans Clustering**, designed to help malls understand and engage with their customers based on **spending behavior** and **income levels**.
 
 ---
+
+##  Project Overview
+
+This dashboard simulates a real-world mall management scenario where three roles — **Admin**, **Analyst**, and **Marketing Head** — access specific features.
+
+It includes:
+- Data visualization and clustering analysis
+- Role-based authentication
+- Mall and user management
+- Marketing insights and KPIs
+
+---
+
+##  Features
+
+ **Login System**
+- Role-based login (Admin, Analyst, Marketing Head)
+- Secure user credentials stored in CSV
+
+ **Data Analysis**
+- KMeans clustering based on annual income and spending score
+- Cluster-wise recommendations and visual breakdowns
+
+ **Marketing Dashboard**
+- Campaign KPIs (CTR, Reach, Budget, ROI)
+- Advertising channel pie chart
+
+ **Admin Panel**
+- Add/update users and assign roles
+- Manage mall branches (name, location, ID)
+
+---
+
+##  Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Python | Backend logic & data processing |
+| Streamlit | Interactive dashboard UI |
+| Pandas | Data loading and manipulation |
+| Matplotlib & Seaborn | Visualization |
+| Scikit-learn | KMeans clustering algorithm |
+| Git & GitHub | Version control & sharing |
+
+---
+
+##  File Structure
+
