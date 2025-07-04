@@ -48,11 +48,10 @@ It includes:
 | Git & GitHub | Version control & sharing |
 
 ---
-##  File Structure
-project-folder/
-│
-├── mall_dashboard_norerun.py # Main Streamlit app
-├── Mall_Customers.csv # Customer dataset
-├── user.csv # User credentials
-├── malls.csv # Mall branches data
-└── README.md # Project info (this file)
+## How to Run the Project
+
+###  Requirements
+- Python 3.10+
+- Install dependencies:
+```bash
+pip install streamlit pandas matplotlib seaborn scikit-learn
