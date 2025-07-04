@@ -55,24 +55,22 @@ It includes:
 - Install dependencies:
 ```bash
 pip install streamlit pandas matplotlib seaborn scikit-learn
-
+streamlit run mall_dashboard_norerun.py
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
-- 🔄 User password encryption  
-- 🧾 Downloadable customer segmentation reports  
-- 🌐 Deploy on Streamlit Cloud  
-- 🔍 Add filters for age, gender, and region  
+-  User password encryption  
+-  Downloadable customer segmentation reports  
+-  Add filters for age, gender, and region  
+-  Deploy on Streamlit Cloud  
 
 ---
+## About Me
 
-## 👤 About Me
-
-**Meghraj Upadhye**  
+**Megharaj Upadhye**  
 BCA Student |  Aspiring Data Analyst  
-  
- Blending technology with communication, analytics, and legacy  
+Blending technology with communication, analytics, and legacy  
 
 ---
 
@@ -87,8 +85,5 @@ BCA Student |  Aspiring Data Analyst
 ##  License
 
 This project is licensed under the [MIT License](LICENSE).
-
 ---
-
-> “In code we trust. In data we decide.” —
 
